@@ -42,8 +42,5 @@ Run the notebook to see the exact row/column counts and validation output. The s
 
 You can also upload all files to Google Colab and run the notebook there.
 
-## Data privacy
-The included records are synthetic sample data. Do not publish real customer information or confidential company data in a public GitHub repository without explicit authorization.
-
 ## Technologies
 Python · Pandas · NumPy · Jupyter Notebook

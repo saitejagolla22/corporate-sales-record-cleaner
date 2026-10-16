@@ -1,0 +1,22 @@
+Order_ID,Customer,Age,City,Product,Price,Quantity,Payment_Method,Order_Date
+ORD-1001,  Asha Rao ,29.0, Hyderabad ,Laptop,65000.0,1.0, Credit Card ,2026-09-01
+ORD-1002,Ravi Kumar,34.0,Vijayawada,Mouse,850.0,2.0,UPI,2026-09-02
+ORD-1003,Meena Devi,, visakhapatnam,Keyboard,1800.0,1.0,upi,2026-09-03
+ORD-1004,Kiran Reddy,41.0,,Monitor,12500.0,1.0,Debit Card,2026-09-03
+ORD-1005,  Sita Lakshmi,27.0,Guntur,Headphones,,1.0,Cash,2026-09-04
+ORD-1006,Arjun Varma,31.0,Hyderabad,Webcam,3200.0,,UPI,2026-09-05
+ORD-1007,Priya Nair,38.0,Tirupati,Laptop,72000.0,1.0,,2026-09-05
+ORD-1008,Rahul Das,24.0,  guntur ,Mouse,900.0,3.0,Cash,2026-09-06
+ORD-1009,Anu Sharma,,Nellore,Keyboard,2100.0,2.0,UPI,2026-09-06
+ORD-1010,Vikram Singh,45.0,Hyderabad,Monitor,13500.0,1.0,Credit Card,2026-09-07
+ORD-1011,Divya Patel,33.0,Rajahmundry,Headphones,2500.0,2.0,upi,2026-09-08
+ORD-1012,Nikhil Jain,28.0,Eluru,Webcam,,1.0,Debit Card,2026-09-08
+ORD-1001,  Asha Rao ,29.0, Hyderabad ,Laptop,65000.0,1.0, Credit Card ,2026-09-01
+ORD-1014,Farah Ali,36.0,Kakinada,Mouse,950.0,2.0,UPI,2026-09-09
+ORD-1015,Manoj Babu,30.0,Vijayawada,Keyboard,1900.0,1.0,Cash,2026-09-10
+ORD-1016,Sneha Paul,,Anantapur,Monitor,11800.0,1.0,Credit Card,2026-09-10
+ORD-1017,Sai Charan,26.0,Ongole,Headphones,2200.0,2.0,UPI,2026-09-11
+ORD-1018,Lakshmi K,39.0,  Nellore,Webcam,3500.0,1.0,Debit Card,2026-09-11
+ORD-1019,Pavan Teja,32.0,Vizianagaram,Laptop,68000.0,1.0,Credit Card,2026-09-12
+ORD-1020,Geetha Rani,35.0,Srikakulam,Mouse,800.0,4.0,Cash,2026-09-12
+ORD-1021,  Ravi Kumar ,34.0,Vijayawada,Mouse,850.0,2.0,UPI,2026-09-02
